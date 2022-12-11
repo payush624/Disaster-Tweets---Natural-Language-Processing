@@ -22,8 +22,6 @@ Let's take a look, how a non disaster and disaster tweet looks like.
 
 <br>
 
-
-
 <p align = "center">
 <img src = "https://github.com/payush624/Disaster-Tweets---Natural-Language-Processing/blob/cae8a8bed6bdef968410378830b33e5e748ff53c/non%20disaster%20tweet%20example.png">
 </p>
