@@ -15,6 +15,7 @@ The above problem is an perefct example for use case of Natural Lanaguage Proces
 <br>
 <br>
 
+
 Let's take a look, how a non disaster and disaster tweet looks like.
 
 <br>
