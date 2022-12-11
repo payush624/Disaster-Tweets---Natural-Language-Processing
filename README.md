@@ -74,3 +74,5 @@ Fig.5 - Testing model by giving random tweets for prediction
 
 As you can see from above image model is able to predict tweets related to disaster 'flood flood save us' and 'volcanic eruption, save us'. "However, it is possible to confuse the model by providing it with input that contains a mix of different elements, as shown in the first example and i'm still working on improving my model accuracy and trying to understand different ML algorithms so I can implement it over here.
 
+Check out my Notebook for code and model, feel free to contribute towards this project [Click here](https://github.com/payush624/Disaster-Tweets---Natural-Language-Processing/blob/f8e400204fe531c03918dea2305de9dfcddaa7de/Disaster_Tweets_Kaggle_Compitition.ipynb)
+
