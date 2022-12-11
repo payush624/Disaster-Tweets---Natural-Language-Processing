@@ -11,13 +11,8 @@ The author explicitly uses the word “ABLAZE” but means it metaphorically. Th
 
 The above problem is an perefct example for use case of Natural Lanaguage Processing. Using a dataset of 10,000 tweets. I've built an Machine Learning Model that predicts which Tweets are about real disasters and which one’s aren’t.
 
-
-
-
-
-
-
-
+<br>
+<br>
 
 Let's take a look, how a non disaster and disaster tweet looks like.
 
