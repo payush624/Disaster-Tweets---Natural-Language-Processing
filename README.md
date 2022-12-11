@@ -49,7 +49,16 @@ Fig.3 - uncleaned tweets (left) vs cleaned tweets (right)
 
 <br>
 
-In general, we often work with a collection of text data that may or may not be labeled, and we want to build a machine learning model that can recognize patterns based on the words in the strings to predict new text data. Since computers only understand numerical data, we need to convert our text data into numerical form. To do this, I used both Count Vectorizer and Tf-Idf Vectorizer, so I could compare which vectorization method works best with my model.
+In general, we often work with a collection of text data that may or may not be labeled, and we want to build a machine learning model that can recognize patterns based on the words in the strings to predict new text data. Since computers only understand numerical data, we need to convert our text data into numerical form. To do this, I used both Count Vectorizer and Tf-Idf Vectorizer, so I could compare which vectorization method works best with my model. Next step was to split my dataset to training and testing set. I used the following Machine Learning algorithms Logistic Regression, Multinomial Naive Bayes, Support Vector Machine to build my model and compare which model works better. Below is the accuracy score for SVM which has higest score amongst the algorithms used.
+
+<p align = "center">
+<img src = "https://github.com/payush624/Disaster-Tweets---Natural-Language-Processing/blob/620aaf7b8c4af6184c308f02b05620a55a737e78/accuracy%20score%20svm.png">
+</p>
+<p align = "center">
+Fig.4 - Accuracy score SVM
+</p>
+
+
 
 
 
