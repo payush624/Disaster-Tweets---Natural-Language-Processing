@@ -47,3 +47,9 @@ Prior to building a model, I encountered several challenges with the data, such 
 Fig.3 - uncleaned tweets (left) vs cleaned tweets (right)
 </p>
 
+<br>
+
+In general, we often work with a collection of text data that may or may not be labeled, and we want to build a machine learning model that can recognize patterns based on the words in the strings to predict new text data. Since computers only understand numerical data, we need to convert our text data into numerical form. To do this, I used both Count Vectorizer and Tf-Idf Vectorizer, so I could compare which vectorization method works best with my model.
+
+
+
