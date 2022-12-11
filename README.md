@@ -58,7 +58,18 @@ In general, we often work with a collection of text data that may or may not be 
 Fig.4 - Accuracy score SVM
 </p>
 
+To check how my model works, I inputted some random tweets to check if my model is able to predict if it is realted to disaster or not
+
+1 - disaster tweet
+0 - Non disaster tweet
 
 
+<p align = "center">
+<img src = "https://github.com/payush624/Disaster-Tweets---Natural-Language-Processing/blob/62b3d374ee9f292821c9fbca410995696837b714/testing%20on%20user%20defined%20tweets.png
+">
+</p>
+<p align = "center">
+Fig.5 - Testing model by giving random tweets for prediction
+</p>
 
 
