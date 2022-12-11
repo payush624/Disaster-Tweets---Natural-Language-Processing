@@ -20,7 +20,6 @@ The above problem is an perefct example for use case of Natural Lanaguage Proces
 
 Let's take a look, how a non disaster and disaster tweet looks like.
 
-Non Disaster Example
 
 <p align = "center">
 <img src = "https://github.com/payush624/Disaster-Tweets---Natural-Language-Processing/blob/cae8a8bed6bdef968410378830b33e5e748ff53c/non%20disaster%20tweet%20example.png">
@@ -29,4 +28,11 @@ Non Disaster Example
 Fig.1 - Non Disaster Tweet Example
 </p>
 
+
+<p align = "center">
+<img src = https://github.com/payush624/Disaster-Tweets---Natural-Language-Processing/blob/feb5feb19c875972193fb1b8530ee7f2a7e02718/disaster%20related%20tweet%20example.png>
+</p>
+<p align = "center">
+Fig.2 - Disaster Tweet Example
+</p>
 
