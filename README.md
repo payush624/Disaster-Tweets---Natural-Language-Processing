@@ -36,12 +36,14 @@ Fig.1 - Non Disaster Tweet Example
 Fig.2 - Disaster Tweet Example
 </p>
 
+<br>
+
 Prior to building a model, I encountered several challenges with the data, such as the presence of special characters, numbers, and links. To overcome these issues, I applied regular expressions to remove unwanted elements, such as links and digits. I then tokenized the dataset and removed stop words. After performing text data processing, the comparison below illustrates the difference between uncleaned tweets (left) and cleaned tweets (right).
 
 <p align = "center">
 <img src = "https://github.com/payush624/Disaster-Tweets---Natural-Language-Processing/blob/21e69dc2750f2e21fa96e73c33c1ea613dd0febd/cleaned%20vs%20uncleaned.png">
 </p>
 <p align = "center">
-Fig.2 - uncleaned tweets (left) vs cleaned tweets (right)
+Fig.3 - uncleaned tweets (left) vs cleaned tweets (right)
 </p>
 
